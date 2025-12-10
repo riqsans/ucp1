@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><dimen name="padding_small">10dp</dimen>
+    <dimen name="padding_medium">16dp</dimen>
+    <dimen name="thickness_divider">1dp</dimen>
+    <dimen name="welcome_font">50dp</dimen>
+    <dimen name="padding_welcome">50dp</dimen>
+    <dimen name="padding_smallform">8dp</dimen>
+    <dimen name="padding_mediumform">16dp</dimen>
+    <dimen name="padding_largeform">39dp</dimen>
+    <dimen name="button_heightform">50dp</dimen>
+    <dimen name="font_titleform">35sp</dimen></resources>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ucp1</string>
+    <string name= "NIM">20230140100</string>
+    <string name="jenis_kelamin">JENIS KELAMIN</string>
+    <string name="alamat">ALAMAT</string>
+    <string name="tampil">Tampilan Data</string>
+    <string name="formisian">Form Isian</string>
+    <string name="selamat_datang">Pesan Tiket Pertandingan</string>
+    <string name="FormulirPendaftaran">Formulir Pendaftaran</string>
+    <string name="submit">Masuk</string>
+    <string name="submit1">Kembali</string>
+    <string name="submit2">Submit</string>
+    <string name="back">Formulir Pendaftaran</string>
+    <string name="home">beranda</string>
+    <string name="nama_lengkap">M Thoriq Ramadhan</string>
+    <string name="label_nama_lengkap">Nama Lengkap</string>
+    <string name="section">Section</string>
+    <string name="posisi">Posisi</string>
+</resources>
